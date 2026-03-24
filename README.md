@@ -1,7 +1,6 @@
 # 🎬 How Budget Influences Horror Narratives?
 ### A Text Mining Study of Horror Movie Descriptions (TMDB)
-
-> Ricardo Padilla Herrera
+### Ricardo Padilla Herrera
 
 ---
 
