@@ -73,5 +73,7 @@ pip install nltk pandas matplotlib seaborn scikit-learn gensim
 ---
 
 ## 📚 Reference Paper
+> Ryoo, J. H., Wang, X., & Lu, S. (2021). *Do spoilers really spoil?* Journal of Marketing, 85(2), 70–88.
+## 📚 Reference Paper
 
 > Ryoo, J. H., Wang, X., & Lu, S. (2021). *Do spoilers really spoil?* Journal of Marketing, 85(2), 70–88.
